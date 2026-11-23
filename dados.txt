@@ -1,0 +1,3 @@
+1001|Furadeira de bancada|Bosch|2|1890.00
+1002|Paquimetro digital|Mitutoyo|4|740.50
+1003|Torquimetro 20-200 Nm|Gedore|3|1280.90
