@@ -1,0 +1,8 @@
+# Binarios gerados localmente
+ferramental
+ferramental.exe
+*.o
+
+# Arquivos de IDE
+.vscode/
+.idea/
